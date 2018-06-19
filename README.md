@@ -8,5 +8,5 @@ Usage:
 
 3.  shell中执行：
 
-        #go get github.com/xingdl2007/gloc
-        #$GOPATH/bin/gloc path/to/project
+        go get github.com/xingdl2007/gloc
+        $GOPATH/bin/gloc path/to/project
